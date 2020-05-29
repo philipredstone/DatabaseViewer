@@ -1,11 +1,9 @@
 <?php
-ini_set("display_errors", "1");
-ini_set("session.use_strict_mode", "1");
-error_reporting(E_ALL);
 if (!empty($_SERVER['HTTPS'])) {
     ini_set("session.cookie_secure", 1);
 }
 session_start();
+include("config.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -23,8 +21,6 @@ session_start();
     <a class="logout" href="./logout.php">logout</a>
 
 <?php
-
-$servername = "127.0.0.1";
 
 if(isset($_POST['user']) && isset($_POST['pass'])) {
     try {
