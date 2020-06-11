@@ -4,7 +4,7 @@
 
 > ✅ Easy to use, lightweight and clean webbased DatabaseViewer for MySQL
 
-[![PHP Version](https://img.shields.io/badge/php-^7.2.27-0677b7)](https://php.net) [![MySQL Version](https://img.shields.io/badge/MySQL-%5E5.7.0-f29111)](https://www.mysql.com/) [![GNU License](https://img.shields.io/badge/license-GNU-8cba05)](https://github.com/philipredstone/DatabaseViewer/blob/master/LICENSE)
+[![PHP Version](https://img.shields.io/badge/php-^7.2.0-0677b7)](https://php.net) [![MySQL Version](https://img.shields.io/badge/MySQL-%5E5.7.0-f29111)](https://www.mysql.com/) [![GNU License](https://img.shields.io/badge/license-GNU-8cba05)](https://github.com/philipredstone/DatabaseViewer/blob/master/LICENSE)
 
 
 ---
@@ -18,8 +18,15 @@
 - [License](#license)
 
 ## Features
-### Existing features
+- A sleek and minimal database table viewer. Incorporate the viewer into your project to display your data at a glance. 
+- The current release supports a simple authentication system, dark as well as light mode and support for MySQL
 ### Upcoming features
+- Mobile Support
+- Support for more Query Languages
+- More customization
+- MySQL user management
+- Create databases and tables
+- Edit Entrys in tables
 
 ## Installation
 
