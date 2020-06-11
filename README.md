@@ -27,7 +27,7 @@
 - More customization
 - MySQL user management
 - Create databases and tables
-- Edit Entrys in tables
+- Edit Entries in tables
 
 ## Installation
 
