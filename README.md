@@ -45,7 +45,7 @@
 ## Config
 
 
-### Change the IP Adress or domain of your database
+### Change the IP Address or domain of your database
 ![change ip/domain](https://hstin.de/share/g/xZfSe)
 ###  Change your brand name
 
